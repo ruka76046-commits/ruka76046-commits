@@ -1,16 +1,13 @@
-## Hi there 👋
+### About Me
+【京都精華大学　　メディア表現学部　メディア表現学科】
+『嶋田 光夏』
+Webアプリケーション開発に取り組んでいます。
+ユーザーにとって使いやすいWebサービスを目指し、フロントエンドからバックエンド、開発環境の自動化などの制作を行っています。
 
-<!--
-**ruka76046-commits/ruka76046-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 開発で意識していること・強み
+  Flask（Python）とSQLを活用したバックエンド処理（賞味期限管理・メール通知など）から、JavaScript/Chart.jsを用いたインタラクティブなフロントエンドUIの実装まで幅広く対応しています。また、Viteを用いた効率的なビルド環境の構築や、GitHub Actionsによる自動デプロイ（CI/CD）など、開発プロセスの自動化・効率化にも積極的に取り組んでいます。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 使用技術・開発環境（Tech Stack）
+- **言語 / フレームワーク:** HTML5, CSS3, JavaScript, Python, Flask
+- **ライブラリ:** Chart.js
+- **ツール / 開発環境:** Vite, Git, GitHub, GitHub Actions, SQL
